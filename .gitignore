@@ -1,0 +1,7 @@
+/target/
+/scans/
+*.log
+
+# Local credentials and document queue
+/config.json
+*.queue/
